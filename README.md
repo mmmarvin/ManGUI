@@ -1,7 +1,7 @@
 # ManGUI
 Gui front-end for man pages using wxWidgets
 
-# Requires:
+# Requires
 * wxWidgets
 * man
 
